@@ -1,3 +1,0 @@
-C:/Users/pauls/CLionProjects/Dames/cmake-build-debug/CMakeFiles/Dames.dir
-C:/Users/pauls/CLionProjects/Dames/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/pauls/CLionProjects/Dames/cmake-build-debug/CMakeFiles/rebuild_cache.dir
